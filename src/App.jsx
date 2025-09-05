@@ -7,6 +7,7 @@ import Pixelgrade from './components/Pixelgrade'
 import Stats from './components/Stats'
 import How from './components/How'
 import Meet from './components/Meet'
+import Article from './components/Article'
 import Demo from './components/Demo'
 import Footer from './components/Footer'
 
@@ -22,6 +23,7 @@ function App() {
       < Stats />
       < How />
       < Meet />
+      < Article/>
       < Demo />
       < Footer />
     </>
